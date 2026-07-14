@@ -1,4 +1,4 @@
-# eternonz/websites — all live static sites
+# eternonz/Websites — all live static sites
 
 One subdirectory per domain. Hosted via **Cloudflare Pages** (one Pages project per subdir, custom domain set in the Cloudflare dashboard).
 
