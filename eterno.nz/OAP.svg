@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <title>Obsidian Agent Panel</title>
+  <g stroke="#8D64F7" stroke-width="8">
+    <rect x="20" y="24" width="88" height="80" rx="18"/>
+    <path d="M50 24v80"/>
+  </g>
+  <circle cx="79" cy="64" r="10" fill="#8D64F7"/>
+</svg>
