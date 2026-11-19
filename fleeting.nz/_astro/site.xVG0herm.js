@@ -1,0 +1,1 @@
+const t="https://pay.eterno.nz",n="514004240796-j25ui2m9m4tfb0k46snn85buudi164mm.apps.googleusercontent.com",e="nz.eterno.fleeting.web",s="https://fleeting.nz/account/";export{s as A,n as G,t as P,e as a};
